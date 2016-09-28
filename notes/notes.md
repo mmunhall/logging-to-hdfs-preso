@@ -1,3 +1,24 @@
+
+
+IDEA: START AT THE END!
+=======================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Design Goals
 ------------
 
@@ -20,6 +41,8 @@ Why this is a win/win for Canoe
 Architecture Overview
 ---------------------
 
+
+
 Technologies
 ------------
 
@@ -29,8 +52,8 @@ Flume
 Avro
 Impala
 
-Where I started
----------------
+What are We Doing Here?
+-----------------------
 
 Craig said, "..."
 

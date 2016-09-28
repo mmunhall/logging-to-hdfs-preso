@@ -5,3 +5,4 @@ dist
 .sass-cache
 .idea
 *.iml
+**/.DS_Store
