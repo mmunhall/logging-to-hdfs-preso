@@ -1,4 +1,6 @@
 [
     "index.md",
-    "architecture.html"
+    "design-goals.md",
+    "architecture.html",
+    "next-steps.md"
 ]
