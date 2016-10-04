@@ -31,10 +31,7 @@
         Automate the creation of Impala partitions.
     </li>
     <li class="fragment fade-in">
-        Investigate Parquet
-    </li>
-    <li class="fragment fade-in">
-        Investigate Kudu
+        Investigate Parquet, Kudu, Kafka
     </li>
 </ul>
 
